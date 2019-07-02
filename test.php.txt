@@ -5,7 +5,11 @@
 </head>
 <body>
 	<?php 
+
 		echo 'Good bye';
+
+		echo "hello";
+
 	?>
 </body>
 </html>
